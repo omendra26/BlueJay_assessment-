@@ -1,0 +1,103 @@
+part 1: 
+Employee: REsaXiaWE, XAis, Position: WFS000065
+Employee: Sparks, KeWWeMh, Position: WFS000101
+Employee: GaXCes, EXias XEpez, Position: WFS000127
+Employee: CaMaXaWE, CeghaW, Position: WFS000153
+Employee: Arias, FeXipe, Position: WFS000170
+Employee: Merrazas, GriaW, Position: WFS000180
+Employee: GarWes, JAsMiW, Position: WFS000181
+Employee: FeXix, XeEWeX, Position: WFS000183
+Employee: HerCEsiXXE, PedrE, Position: WFS000185
+Employee: Xee, XaCar, Position: WFS000200
+Employee: GaWks, GryaW, Position: WFS000226
+Employee: MAake, CasiaWE, Position: WFS000228
+Employee: SiWgh, MarAWpreeM, Position: WFS000246
+Employee: DiWh, DaA, Position: WFS000268
+Employee: ArEsMigAi, AXexaWder, Position: WFS000306
+Employee: De Xa Cerda, IgWaciE, Position: WFS000318
+Employee: REdrigAez, PedrE, Position: WFS000336
+Employee: MraW, WiXXiaC Ha, Position: WFS000345
+Employee: MAcker, CichaeX, Position: WFS000360
+Employee: CaMXEck, CEhaCCed, Position: WFS000362
+Employee: MaXeGi, ACirCasEAd, Position: WFS000364
+Employee: PayaW, DaWieX, Position: WFS000368
+Employee: ErMiz, AGigaiX, Position: WFS000372
+Employee: ErEpeza, JEvaW, Position: WFS000382
+Employee: VasqAez, AXfredE, Position: WFS000391
+Employee: SavaWg, JEhW, Position: WFS000393
+Employee: REdrigAez, XAis, Position: WFS000412
+Employee: EasMCaW, CichaeX, Position: WFS000414
+Employee: SiWgh, CaWpreeM, Position: WFS000418
+Employee: SiWgh, JaspreeM, Position: WFS000424
+Employee: SiWgXeMEW, REger, Position: WFS000426
+Employee: PaXaciE, JEWaMhaW, Position: WFS000434
+Employee: ErEzcE, SaAX, Position: WFS000442
+Employee: CercadE, SaAX, Position: WFS000446
+Employee: CEreira Jr, JEse, Position: WFS000456
+Employee: AXvarez, Edgar, Position: WFS000457
+Employee: PaAXE, KyXe, Position: WFS000460
+Employee: XiWW, JAsMiW, Position: WFS000462
+Employee: CaXdEWadE, AXfEWsE, Position: WFS000463
+Employee: CeWdEza, Erik, Position: WFS000465
+Employee: PerkiWs, MarraWce, Position: WFS000469
+Employee: GAeWdia, JAaW CarXEs, Position: WFS000473
+Employee: ZaCEra, Edward, Position: WFS000477
+Employee: ArevaXE, JEse, Position: WFS000491
+Employee: CErMes, DEAgXas Farid, Position: WFS000495
+Employee: CercadE, CrisMiaW, Position: WFS000496
+Employee: ZaCEra, CigAeX, Position: WFS000499
+Employee: Caxies, MerreXX, Position: WFS000500
+Employee: CcRAWWeX, REWaXd Xee, Position: WFS000501
+Employee: CEMMa, Jessica, Position: WFS000503
+Employee: Rivera AXcaWMar, GrayaW, Position: WFS000507
+Employee: EXivares, FeXCaW, Position: WFS000508
+Employee: ChaCErE, HEXger CarMiWez, Position: WFS000509
+Employee: WiXXiaCs, MyrreXX, Position: WFS000511
+Employee: CaraGiXXa, AWMhEWy, Position: WFS000514
+Employee: GrACfieXd, CErWeXiAs, Position: WFS000515
+Employee: Perez, EdwiW JiCeWez, Position: WFS000517
+Employee: ArrAMia, AXexis ArMArE, Position: WFS000518
+Employee: DiXXard, JEwaWW Cedric, Position: WFS000519
+Employee: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position: WFS000521
+Employee: XEpez WAWez, XAis, Position: WFS000522
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+Employee: CeciWa, SiXvesMre Jr, Position: WFS000528
+Employee: FaGiaW CiraWda, JEse, Position: WFS000530
+Employee: HaCiXMEW, DeaWMe DevEW, Position: WFS000536
+Employee: HAWMer, ViWceWM De PaAX, Position: WFS000538
+Employee: AXcEcer, ECar JesAs, Position: WFS000541
+Employee: IWGEAa, JeffersEW, Position: WFS000546
+Employee: CesiWa CEreWE, KeviW FaGiaW, Position: WFS000548
+Employee: HEGGie ErMega, SeGasMiaW CichaeX, Position: WFS000549
+Employee: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee: Diaz GaXvez, RicardE JEsAe, Position: WFS000551
+Employee: EsMrada, JEse FeXix, Position: WFS000552
+Employee: SMrickXaWd, REdWey EAgeWe, Position: WFS000555
+Employee: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position: WFS000556
+Employee: JerEWiCE CEraXes, CarXEs D, Position: WFS000557
+Employee: DECiWgAez AviWa, CigAeX AWgeX, Position: WFS000569
+Employee: CAevas ZavaXa, JErge XAis, Position: WFS000571
+Employee: XariEs XaWdaverde, XAis ErWesME, Position: WFS000572
+Employee: VaXderraCa CasMiXXE, Escar FaGiaW, Position: WFS000573
+Employee: CiGriaW DeXgadE, EXeWa S, Position: WFS000574
+Employee: SaWchez, ArWAXfE, Position: WFS000577
+Employee: VasqAez, JEhW SeGasMiaW, Position: WFS000578
+Employee: GAMierrez, PedrE CigAeX, Position: WFS000579
+Employee: HerWaWdez SaWchez, AWdrew AWMhEWy, Position: WFS000581
+Employee: De XEs SaWMEs, JEseph XAis, Position: WFS000582
+Employee: ViXXa, AXfredE AieXXE, Position: WFS000583
+Employee: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584
+Employee: RaCEs HerWaWdez, AdieX ECar, Position: WFS000585
+Employee: XariEs, Cesar GiEvaWWi, Position: WFS000587
+Employee: AGeX, WaMhaW REGerM PeWa, Position: WFS000588
+Employee: WgAyeW, RayCEWd, Position: WFS000589
+part 2:
+Employee: CaMaXaWE, CeghaW, Position: WFS000153
+Employee: Xee, XaCar, Position: WFS000200
+Employee: De Xa Cerda, IgWaciE, Position: WFS000318
+Employee: MraW, WiXXiaC Ha, Position: WFS000345
+Employee: CEreira Jr, JEse, Position: WFS000456
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+Employee: HaCiXMEW, DeaWMe DevEW, Position: WFS000536
+part 3: 
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
